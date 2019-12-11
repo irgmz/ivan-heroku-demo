@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby "2.3.1"
+ruby "2.4.6"
 gem 'rails', '3.2.13'
 group :assets do
   gem 'sass-rails'
